@@ -26,5 +26,5 @@ From ipython:
 >> ```run job_hunt_class.py```  - everytime after that.
 
 
-    This creates the job_hunt object jh.
-    ***Remember to jh.save() before exiting your interactive environment***
+    This creates the job_hunt object jh
+***Remember to jh.save() before exiting your interactive environment***
