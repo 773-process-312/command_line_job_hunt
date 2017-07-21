@@ -4,6 +4,5 @@
 What's the difference between a Data Analyst and a Data Scientist?
 > Data Scientist don't use excel.
 
-\
 
 ![for_beginners](imgs/for_beginners.png)
