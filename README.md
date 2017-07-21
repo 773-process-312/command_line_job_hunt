@@ -13,9 +13,14 @@ and a PriorityQueue keeps you focused on the most important task next.
 
 ___
 
+
 ##Getting Started
+
 
 From the command line:
 > ```python -i job_hunt_class.py "init"```  - the first time you run it.
 >> ```python -i job_hunt_class.py```  - everytime after that.
- 
+
+From ipython:
+> ```run job_hunt_class.py "init"```  - the first time you run it.
+>> ```run job_hunt_class.py```  - everytime after that.
