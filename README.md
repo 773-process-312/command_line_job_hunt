@@ -16,7 +16,6 @@ ___
 ##Getting Started
 
 From the command line:
-> ```python -i job_hunt_class.py "init"```
->> the first time you run it.
->>> ```python -i job_hunt_class.py```
->>>> everytime after that.
+> ```python -i job_hunt_class.py "init"```  - the first time you run it.
+>> ```python -i job_hunt_class.py```  - everytime after that.
+ 
